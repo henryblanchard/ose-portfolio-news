@@ -22,6 +22,17 @@ After adding or replacing an issue, rebuild the archive index:
 node scripts/build-issue-index.mjs
 ```
 
+## Source Map
+
+Refresh the company/source directory before research:
+
+```bash
+node scripts/build-source-map.mjs
+```
+
+This writes `site/sources/portfolio-source-map.json` and `site/sources/portfolio-source-map.md`.
+OSE portfolio pages are used only for roster and official link discovery; issues should cite company, social, regulatory, publication, event, press-release, or reputable media sources instead.
+
 ## Netlify
 
 Create a Netlify site from this repository. Netlify will publish the `site` directory and run:

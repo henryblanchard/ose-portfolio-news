@@ -8,23 +8,18 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
-    <header class="site-header">
-      <nav class="nav" aria-label="Primary">
+    <header class="site-header masthead">
+      <nav class="nav utility-nav" aria-label="Primary">
         <a class="brand" href="./">OSE Portfolio News</a>
+        <span class="edition-mark">Weekly Intelligence Edition</span>
         <a href="#issues">Issues</a>
+        <a href="./sources.html">Source Map</a>
       </nav>
-      <section class="hero">
-        <img src="./assets/news-research-hero.jpg" alt="" class="hero-image">
-        <div class="hero-overlay"></div>
-        <div class="hero-copy">
-          <p class="eyebrow">Weekly investor research</p>
-          <h1>Oxford Science Enterprises portfolio news archive</h1>
-          <p>
-            Automated Tuesday coverage across official company channels, public social posts,
-            reputable science and venture sources, and material market context.
-          </p>
-        </div>
-      </section>
+      <div class="paper-title">
+        <p class="dateline">London · Tuesday Edition · Portfolio Intelligence</p>
+        <h1>OSE Portfolio News</h1>
+        <p class="tagline">A weekly periodical tracking official company channels, public social posts, and reputable science, technology, venture, and market coverage.</p>
+      </div>
     </header>
 
     <main>
@@ -43,12 +38,24 @@
         </div>
       </section>
 
-      <section class="content-section" id="issues">
-        <div class="section-heading">
-          <p class="eyebrow">Archive</p>
-          <h2>Issues</h2>
+      <section class="front-page" aria-label="Latest issue">
+        <div class="front-image-wrap">
+          <img src="./assets/news-research-hero.jpg" alt="" class="front-image">
         </div>
-        <div class="issue-list" id="issue-list" aria-live="polite">
+        <div class="front-copy">
+          <p class="kicker">Latest Issue</p>
+          <div id="latest-issue" aria-live="polite">
+            <p class="muted">Loading latest issue...</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-section broadsheet-grid" id="issues">
+        <div class="section-heading">
+          <p class="kicker">Archive</p>
+          <h2>All Issues</h2>
+        </div>
+        <div class="issue-list newspaper-list" id="issue-list" aria-live="polite">
           <p class="muted">Loading issue archive...</p>
         </div>
       </section>

@@ -3,9 +3,16 @@
     {
       "slug": "2026-06-09",
       "date": "2026-06-09",
-      "title": "Issue 001: Scheduled first run",
-      "summary": "The first automated Oxford Science Enterprises portfolio news issue is scheduled for Tuesday, 9 June 2026.",
+      "title": "Issue 002: Scheduled next run",
+      "summary": "The next automated Oxford Science Enterprises portfolio news issue is scheduled for Tuesday, 9 June 2026.",
       "status": "scheduled"
+    },
+    {
+      "slug": "2026-06-02",
+      "date": "2026-06-02",
+      "title": "Issue 001: OSE Portfolio News - 2 June 2026",
+      "summary": "Run date: 2 June 2026. Coverage window: 26 May to 2 June 2026, with a short catch-up section for older but strategically material May items surfaced during this first run. Roster refreshed from the Oxford Science Enterprises portfolio page: 81 companies checked.",
+      "status": "published"
     }
   ]
 }

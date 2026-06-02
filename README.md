@@ -2,6 +2,8 @@
 
 Static newsletter archive for the weekly Oxford Science Enterprises portfolio news automation.
 
+Live site: <https://henryblanchard.github.io/ose-portfolio-news/>
+
 ## Local Preview
 
 ```bash

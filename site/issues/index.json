@@ -3,9 +3,16 @@
     {
       "slug": "2026-06-09",
       "date": "2026-06-09",
-      "title": "Issue 002: Scheduled next run",
+      "title": "Issue 003: Scheduled next run",
       "summary": "The next automated Oxford Science Enterprises portfolio news issue is scheduled for Tuesday, 9 June 2026.",
       "status": "scheduled"
+    },
+    {
+      "slug": "2026-06-08",
+      "date": "2026-06-08",
+      "title": "Issue 002: Quantum Capital, Clinical Signal - 8 June 2026",
+      "summary": "Run date: 8 June 2026. Coverage window: 2 to 8 June 2026. This manual Monday edition checked all 81 companies, refreshed the official source map, reviewed broad news indexes and company websites, and extracted 62 dated posts from 30 public LinkedIn company pages.",
+      "status": "published"
     },
     {
       "slug": "2026-06-02",

@@ -88,13 +88,25 @@ const parseTerms = (html) => {
 const newsPathPattern =
   /\/(news|newsroom|press|press-releases|media|media-centre|insights|blog|resources|publications|events)(\/|$|-)/i;
 
+const isUsefulNewsUrl = (url) => {
+  const { pathname, search } = new URL(url);
+  return (
+    newsPathPattern.test(pathname) &&
+    !/\/(?:wp-content|wp-json|_next|static|assets?)\//i.test(pathname) &&
+    !/\.(?:css|js|json|xml|ico|png|jpe?g|gif|svg|webp|woff2?|ttf|otf|pdf)$/i.test(
+      pathname
+    ) &&
+    !/[?&](?:ical|feed)=/i.test(search)
+  );
+};
+
 const extractSiteLinks = (html, baseUrl) => {
   const urls = [];
   for (const match of html.matchAll(/href=["']([^"']+)["']/g)) {
     try {
       const url = new URL(match[1].replace(/&amp;/g, "&"), baseUrl);
       url.hash = "";
-      if (url.origin === new URL(baseUrl).origin && newsPathPattern.test(url.pathname)) {
+      if (url.origin === new URL(baseUrl).origin && isUsefulNewsUrl(url.toString())) {
         urls.push(url.toString().replace(/\/$/, ""));
       }
     } catch {
@@ -119,7 +131,7 @@ const discoverNewsCandidates = async (website) => {
     const sitemap = await fetchText(`${origin}/sitemap.xml`, 9000);
     for (const match of sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)) {
       const url = normalizeUrl(match[1]);
-      if (url && new URL(url).origin === origin && newsPathPattern.test(new URL(url).pathname)) {
+      if (url && new URL(url).origin === origin && isUsefulNewsUrl(url)) {
         candidates.push(url);
       }
     }
@@ -151,7 +163,7 @@ const probeUrl = async (url) => {
     const finalUrl = normalizeUrl(response.url);
     if (!finalUrl) return null;
     const pathname = new URL(finalUrl).pathname;
-    if (pathname === "/" || pathname === "") return null;
+    if (pathname === "/" || pathname === "" || !isUsefulNewsUrl(finalUrl)) return null;
     return finalUrl;
   } catch {
     return null;
@@ -241,7 +253,8 @@ const md = [
       source.officialNewsPages.map(link).join(", "),
     ]
       .map((cell) => String(cell || "").replace(/\|/g, "\\|"))
-      .join(" | ");
+      .join(" | ")
+      .trimEnd();
   }),
   "",
 ].join("\n");

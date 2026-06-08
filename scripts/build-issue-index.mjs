@@ -22,7 +22,11 @@ for (const file of files) {
       .map((line) => line.trim())
       .find((line) => line && !line.startsWith("#") && !line.startsWith("-")) ||
     "Weekly portfolio news digest";
-  const status = /scheduled|placeholder/i.test(markdown) ? "scheduled" : "published";
+  const status =
+    /scheduled|placeholder/i.test(title) ||
+    /^## Status\s*\n+\s*Scheduled\b/im.test(markdown)
+      ? "scheduled"
+      : "published";
 
   issues.push({ slug, date, title, summary, status });
 }

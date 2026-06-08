@@ -33,6 +33,28 @@ node scripts/build-source-map.mjs
 This writes `site/sources/portfolio-source-map.json` and `site/sources/portfolio-source-map.md`.
 OSE portfolio pages are used only for roster and official link discovery; issues should cite company, social, regulatory, publication, event, press-release, or reputable media sources instead.
 
+## Manual Research Run
+
+Run the broad news and official-site scan for a date window:
+
+```bash
+node scripts/research-weekly-scan.mjs \
+  site/sources/portfolio-source-map.json \
+  2026-06-02 2026-06-08 \
+  work/weekly-scan-2026-06-08
+```
+
+Then collect dated posts exposed by public LinkedIn company pages:
+
+```bash
+node scripts/research-linkedin-scan.mjs \
+  site/sources/portfolio-source-map.json \
+  2026-06-02 2026-06-08 \
+  work/weekly-scan-2026-06-08/linkedin-results.json
+```
+
+Research output is kept under `work/` and is not published. Review and verify candidate items before adding them to an issue.
+
 ## Netlify
 
 Create a Netlify site from this repository. Netlify will publish the `site` directory and run:

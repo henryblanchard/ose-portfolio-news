@@ -55,6 +55,14 @@ node scripts/research-linkedin-scan.mjs \
 
 Research output is kept under `work/` and is not published. Review and verify candidate items before adding them to an issue.
 
+Each issue must retain an `Editor's Addendum: Leads, Caveats & Corrections` section. Use it for unconfirmed leads, rumours, inference, recycled coverage, chronology problems, false-positive identity matches, and research reviewed but not promoted. Every item needs a clickable source and a clear disposition.
+
+Validate attribution before publication:
+
+```bash
+node scripts/validate-issue-sources.mjs site/issues/YYYY-MM-DD.md
+```
+
 ## Netlify
 
 Create a Netlify site from this repository. Netlify will publish the `site` directory and run:

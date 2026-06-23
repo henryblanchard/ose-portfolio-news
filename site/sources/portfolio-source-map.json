@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T07:43:09.549Z",
+  "generatedAt": "2026-06-23T07:04:45.201Z",
   "sources": [
     {
       "name": "Acionna Therapeutics",
@@ -13,7 +13,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:39:59.670Z"
+      "lastChecked": "2026-06-23T07:01:07.484Z"
     },
     {
       "name": "Alethio Therapeutics",
@@ -27,7 +27,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:00.714Z"
+      "lastChecked": "2026-06-23T07:01:08.580Z"
     },
     {
       "name": "Allos",
@@ -41,7 +41,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:01.867Z"
+      "lastChecked": "2026-06-23T07:01:09.990Z"
     },
     {
       "name": "Alloyed",
@@ -54,8 +54,17 @@
       "linkedin": "https://linkedin.com/company/alloyed",
       "xTwitter": "https://x.com/Alloyed_ltd",
       "otherSocial": [],
-      "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:03.386Z"
+      "officialNewsPages": [
+        "https://alloyed.com/news/putting-the-super-in-superalloy",
+        "https://alloyed.com/news/alloyed-shows-how-britain-hopes-to-make-things-in-the-future",
+        "https://alloyed.com/news/breaking-the-mould",
+        "https://alloyed.com/news/a-day-in-the-life-of-an-alloy-design-engineer",
+        "https://alloyed.com/news/ati-backs-alloyeds-3d-printed-superalloy-for-jet-engines",
+        "https://alloyed.com/news/digitally-designed-alloys-advance-aerospace-additive-manufacturing",
+        "https://alloyed.com/news/high-temperature-performance-meets-printability",
+        "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan"
+      ],
+      "lastChecked": "2026-06-23T07:01:11.358Z"
     },
     {
       "name": "Alveogene",
@@ -71,7 +80,7 @@
       "officialNewsPages": [
         "https://alveogene.com/news"
       ],
-      "lastChecked": "2026-06-08T07:40:05.687Z"
+      "lastChecked": "2026-06-23T07:01:13.795Z"
     },
     {
       "name": "Amber Therapeutics",
@@ -85,7 +94,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:06.967Z"
+      "lastChecked": "2026-06-23T07:01:15.780Z"
     },
     {
       "name": "Archangel Lightworks",
@@ -99,7 +108,7 @@
       "xTwitter": "https://x.com/archangelworks",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:07.972Z"
+      "lastChecked": "2026-06-23T07:01:16.773Z"
     },
     {
       "name": "Ascension",
@@ -115,7 +124,7 @@
       "officialNewsPages": [
         "https://ascension.global/news"
       ],
-      "lastChecked": "2026-06-08T07:40:10.750Z"
+      "lastChecked": "2026-06-23T07:01:19.357Z"
     },
     {
       "name": "Barinthus Biotherapeutics",
@@ -129,7 +138,7 @@
       "xTwitter": "https://x.com/BarinthusBio",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:14.128Z"
+      "lastChecked": "2026-06-23T07:01:24.131Z"
     },
     {
       "name": "Base Genomics",
@@ -143,7 +152,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:18.083Z"
+      "lastChecked": "2026-06-23T07:01:27.683Z"
     },
     {
       "name": "Beacon Therapeutics",
@@ -157,7 +166,7 @@
       "xTwitter": "https://x.com/beacontx_",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:19.121Z"
+      "lastChecked": "2026-06-23T07:01:29.012Z"
     },
     {
       "name": "BibliU",
@@ -184,7 +193,7 @@
         "https://bibliu.com/blog/5-ways-digital-textbooks-support-diverse-learning-needs",
         "https://bibliu.com/blog/5-ways-to-engage-gen-z-with-edtech"
       ],
-      "lastChecked": "2026-06-08T07:40:20.112Z"
+      "lastChecked": "2026-06-23T07:01:30.267Z"
     },
     {
       "name": "Caristo Diagnostics",
@@ -198,7 +207,7 @@
       "xTwitter": "https://x.com/CaristoHeart",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:23.093Z"
+      "lastChecked": "2026-06-23T07:01:33.753Z"
     },
     {
       "name": "Caudal Energy",
@@ -212,7 +221,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:24.189Z"
+      "lastChecked": "2026-06-23T07:01:35.249Z"
     },
     {
       "name": "Circadian Therapeutics",
@@ -226,7 +235,7 @@
       "xTwitter": "https://x.com/sleepscientist1",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:25.381Z"
+      "lastChecked": "2026-06-23T07:01:36.520Z"
     },
     {
       "name": "Credo Therapies",
@@ -240,7 +249,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:26.710Z"
+      "lastChecked": "2026-06-23T07:01:37.685Z"
     },
     {
       "name": "Dark Blue Therapeutics",
@@ -254,7 +263,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:27.806Z"
+      "lastChecked": "2026-06-23T07:01:38.883Z"
     },
     {
       "name": "Densix",
@@ -268,7 +277,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:28.864Z"
+      "lastChecked": "2026-06-23T07:01:39.882Z"
     },
     {
       "name": "DiffBlue",
@@ -286,7 +295,7 @@
         "https://www.diffblue.com/resources/category/blog",
         "https://www.diffblue.com/resources/category/webinar"
       ],
-      "lastChecked": "2026-06-08T07:40:29.877Z"
+      "lastChecked": "2026-06-23T07:01:40.865Z"
     },
     {
       "name": "DJS Antibodies",
@@ -300,7 +309,7 @@
       "xTwitter": "https://x.com/djsantibodies",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:31.826Z"
+      "lastChecked": "2026-06-23T07:01:43.020Z"
     },
     {
       "name": "EndLyz Therapeutics",
@@ -317,7 +326,7 @@
         "https://www.endlyz.com/news",
         "https://www.endlyz.com/news/endlyz-therapeutics-launches-and-unveils-its-portfolio-of-programmes-targeting-parkinsons-disease"
       ],
-      "lastChecked": "2026-06-08T07:40:33.568Z"
+      "lastChecked": "2026-06-23T07:01:44.755Z"
     },
     {
       "name": "Evolito",
@@ -335,7 +344,7 @@
         "https://evolito.aero/events",
         "https://evolito.aero/press"
       ],
-      "lastChecked": "2026-06-08T07:40:35.198Z"
+      "lastChecked": "2026-06-23T07:01:46.985Z"
     },
     {
       "name": "Evox Therapeutics",
@@ -349,7 +358,7 @@
       "xTwitter": "https://x.com/EvOx_Ltd",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:37.366Z"
+      "lastChecked": "2026-06-23T07:01:49.223Z"
     },
     {
       "name": "First Light Fusion",
@@ -364,14 +373,14 @@
       "otherSocial": [],
       "officialNewsPages": [
         "https://firstlightfusion.com/media",
+        "https://firstlightfusion.com/media/first-light-fusion-successfully-recreates-orbital-impact-velocities-at-texas-am-engineering-experiment-station",
         "https://firstlightfusion.com/media/first-light-fusion-announces-sale-of-viper-iii-velocity-amplifiers-to-texas-am-engineering-experiment-station",
         "https://firstlightfusion.com/media/locai-labs-signs-contract-with-first-light-fusion-for-the-supply-of-a-domain-specific-llm-for-fusion-energy-research",
         "https://firstlightfusion.com/media/first-light-fusion-announces-25m-successful-first-close-of-new-funding-round-with-investments-from-starmaker-one-ukaea",
         "https://firstlightfusion.com/media/meet-the-team-james-jim-allison-data-driven-engineering-group-lead",
-        "https://firstlightfusion.com/media/locai-labs-and-first-light-fusion-announce-research-collaboration-to-broaden-the-application-of-ai-in-fusion-energy-research",
-        "https://firstlightfusion.com/media/first-light-fusion-validates-high-tritium-breeding-performance-of-flare-concept-addressing-key-barrier-to-fusion-energy-scale-up"
+        "https://firstlightfusion.com/media/locai-labs-and-first-light-fusion-announce-research-collaboration-to-broaden-the-application-of-ai-in-fusion-energy-research"
       ],
-      "lastChecked": "2026-06-08T07:40:39.079Z"
+      "lastChecked": "2026-06-23T07:01:51.091Z"
     },
     {
       "name": "Fluorok",
@@ -385,7 +394,7 @@
       "xTwitter": "https://x.com/Fluo_Rok",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:40:48.968Z"
+      "lastChecked": "2026-06-23T07:02:02.103Z"
     },
     {
       "name": "Fractile",
@@ -402,7 +411,7 @@
         "https://www.fractile.ai/news",
         "https://www.fractile.ai/news/fractile-raises-220m-to-build-the-next-generation-of-inference-hardware"
       ],
-      "lastChecked": "2026-06-08T07:40:52.565Z"
+      "lastChecked": "2026-06-23T07:02:06.210Z"
     },
     {
       "name": "Genomics",
@@ -417,15 +426,15 @@
       "otherSocial": [],
       "officialNewsPages": [
         "https://www.genomics.com/newsroom",
+        "https://www.genomics.com/resources/webinars/on-demand-webinar-ai-in-human-genetics",
         "https://www.genomics.com/resources/recordings/the-genome-and-beyond-advancing-drug-discovery-and-development",
-        "https://www.genomics.com/resources/webinars/target-discovery-validation",
         "https://www.genomics.com/resources/white-papers/ascvd",
         "https://www.genomics.com/resources/newsletter",
+        "https://www.genomics.com/newsroom/genomics-covered-in-politics-uk-a-jewel-in-our-crown",
         "https://www.genomics.com/newsroom/genomics-launches-the-mystra-ai-platform-adopted-by-industry-giants-and-up-and-coming-biotechs",
-        "https://www.genomics.com/newsroom/genomics-in-the-sunday-times-100-tech-2026-one-of-britains-fastest-growing-private-tech-companies",
-        "https://www.genomics.com/newsroom/greywolf-therapeutics-and-genomics-launch-strategic-relationship-to-develop-first-in-class-treatments-for-autoimmune-diseases"
+        "https://www.genomics.com/newsroom/genomics-in-the-sunday-times-100-tech-2026-one-of-britains-fastest-growing-private-tech-companies"
       ],
-      "lastChecked": "2026-06-08T07:40:55.093Z"
+      "lastChecked": "2026-06-23T07:02:08.387Z"
     },
     {
       "name": "Grey Wolf Therapeutics",
@@ -439,11 +448,11 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [
+        "https://www.greywolftherapeutics.com/news/our-ceo-co-founder-peter-joyce-speaks-at-longwood-healthcare-leaders",
         "https://www.greywolftherapeutics.com/news/greywolf-therapeutics-reports-durable-clinical-responses-with-first-in-class-oral-erap1-inhibitor-grwd5769-across-six-solid-tumor-types",
-        "https://www.greywolftherapeutics.com/news/the-guardian-smart-drug-that-strips-cancer-cells-of-invisibility-cloak-can-shrink-tumours-by-30-trial-shows",
-        "https://www.greywolftherapeutics.com/news/i-was-getting-ready-to-say-goodbye-cancer-patients-hope-after-smart-drug-success"
+        "https://www.greywolftherapeutics.com/news/the-guardian-smart-drug-that-strips-cancer-cells-of-invisibility-cloak-can-shrink-tumours-by-30-trial-shows"
       ],
-      "lastChecked": "2026-06-08T07:40:58.871Z"
+      "lastChecked": "2026-06-23T07:02:12.660Z"
     },
     {
       "name": "Ground Truth Labs",
@@ -459,7 +468,7 @@
       "officialNewsPages": [
         "https://groundtruthlabs.com/news"
       ],
-      "lastChecked": "2026-06-08T07:41:01.161Z"
+      "lastChecked": "2026-06-23T07:02:16.128Z"
     },
     {
       "name": "HEXR",
@@ -473,7 +482,7 @@
       "xTwitter": "https://x.com/hexrhelmets",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:02.404Z"
+      "lastChecked": "2026-06-23T07:02:18.551Z"
     },
     {
       "name": "Iota Sciences",
@@ -491,7 +500,7 @@
         "https://iotasciences.com/news",
         "https://iotasciences.com/insights"
       ],
-      "lastChecked": "2026-06-08T07:41:07.691Z"
+      "lastChecked": "2026-06-23T07:02:19.953Z"
     },
     {
       "name": "ISOgenix",
@@ -505,7 +514,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:12.150Z"
+      "lastChecked": "2026-06-23T07:02:23.074Z"
     },
     {
       "name": "Kesmalea",
@@ -519,7 +528,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:13.386Z"
+      "lastChecked": "2026-06-23T07:02:24.155Z"
     },
     {
       "name": "Kneu Health",
@@ -533,7 +542,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:14.669Z"
+      "lastChecked": "2026-06-23T07:02:25.507Z"
     },
     {
       "name": "Latent Logic",
@@ -547,7 +556,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:16.513Z"
+      "lastChecked": "2026-06-23T07:02:30.272Z"
     },
     {
       "name": "Living Optics",
@@ -563,7 +572,7 @@
       "officialNewsPages": [
         "https://www.livingoptics.com/resources"
       ],
-      "lastChecked": "2026-06-08T07:41:17.603Z"
+      "lastChecked": "2026-06-23T07:02:31.530Z"
     },
     {
       "name": "Marley Health",
@@ -577,7 +586,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:20.465Z"
+      "lastChecked": "2026-06-23T07:02:35.850Z"
     },
     {
       "name": "MatchBio",
@@ -591,7 +600,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:21.632Z"
+      "lastChecked": "2026-06-23T07:02:36.878Z"
     },
     {
       "name": "Mind Foundry",
@@ -605,7 +614,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:22.824Z"
+      "lastChecked": "2026-06-23T07:02:37.878Z"
     },
     {
       "name": "MiroBio",
@@ -619,7 +628,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:24.317Z"
+      "lastChecked": "2026-06-23T07:02:39.259Z"
     },
     {
       "name": "Mixergy",
@@ -633,7 +642,7 @@
       "xTwitter": "https://x.com/MixergyLtd",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:25.345Z"
+      "lastChecked": "2026-06-23T07:02:40.254Z"
     },
     {
       "name": "Moa Technology",
@@ -647,7 +656,7 @@
       "xTwitter": "https://x.com/moaTech2023",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:27.516Z"
+      "lastChecked": "2026-06-23T07:02:42.367Z"
     },
     {
       "name": "Mode Labs",
@@ -660,8 +669,13 @@
       "linkedin": "https://linkedin.com/company/mode-labs",
       "xTwitter": "",
       "otherSocial": [],
-      "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:28.652Z"
+      "officialNewsPages": [
+        "https://modelabs.tech/news",
+        "https://modelabs.tech/news/rsc-changemakers-cleantech-cohort-2025",
+        "https://modelabs.tech/news/mode-labs-secures-3m-investment",
+        "https://modelabs.tech/news/fghujt0q9cznqb7ep4j5tt3vm505bc"
+      ],
+      "lastChecked": "2026-06-23T07:02:43.546Z"
     },
     {
       "name": "Natcap",
@@ -680,14 +694,14 @@
         "https://natcapresearch.com/insights/whitepapers-guides",
         "https://natcapresearch.com/insights/webinars",
         "https://natcapresearch.com/newsroom",
+        "https://natcapresearch.com/insights/blog/why-nature-belongs-on-the-business-agenda",
         "https://natcapresearch.com/insights/blog/natcaps-london-climate-action-week-2026",
         "https://natcapresearch.com/insights/blog/nature-dependencies-the-missing-link-in-physical-risk-assessment",
-        "https://natcapresearch.com/insights/blog/scientific-rigour-in-nature-data",
-        "https://natcapresearch.com/insights/blog/exploring-the-interoperability-of-global-frameworks",
-        "https://natcapresearch.com/insights/blog/why-measuring-waste-is-critical-for-nature-and-business-success",
-        "https://natcapresearch.com/insights/blog/what-business-leaders-should-expect-for-cop16"
+        "https://natcapresearch.com/insights/blog/the-eu-omnibus-a-refinement-not-a-retreat",
+        "https://natcapresearch.com/insights/blog/women-in-science-at-natcap",
+        "https://natcapresearch.com/insights/blog/turning-nature-data-into-nature-intelligence"
       ],
-      "lastChecked": "2026-06-08T07:41:30.059Z"
+      "lastChecked": "2026-06-23T07:02:46.210Z"
     },
     {
       "name": "NavLive",
@@ -705,7 +719,7 @@
         "https://navlive.ai/news/navlive-wins-ai-excellence-award",
         "https://navlive.ai/news/navlive-construction-startup-competition-2025"
       ],
-      "lastChecked": "2026-06-08T07:41:32.629Z"
+      "lastChecked": "2026-06-23T07:02:50.146Z"
     },
     {
       "name": "Nucleome Therapeutics",
@@ -719,7 +733,7 @@
       "xTwitter": "https://x.com/NucleomeTx",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:34.632Z"
+      "lastChecked": "2026-06-23T07:02:52.021Z"
     },
     {
       "name": "Oath Surgical",
@@ -733,7 +747,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:35.741Z"
+      "lastChecked": "2026-06-23T07:02:53.308Z"
     },
     {
       "name": "Odqa Renewable Energy Technologies",
@@ -747,7 +761,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:37.807Z"
+      "lastChecked": "2026-06-23T07:02:55.355Z"
     },
     {
       "name": "OMass Therapeutics",
@@ -761,7 +775,7 @@
       "xTwitter": "https://x.com/omasstx",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:39.162Z"
+      "lastChecked": "2026-06-23T07:02:56.799Z"
     },
     {
       "name": "Opsydia",
@@ -777,7 +791,7 @@
       "officialNewsPages": [
         "https://www.opsydia.com/news"
       ],
-      "lastChecked": "2026-06-08T07:41:42.385Z"
+      "lastChecked": "2026-06-23T07:02:58.611Z"
     },
     {
       "name": "Orbit Discovery",
@@ -794,7 +808,7 @@
         "https://www.orbitdiscovery.com/news",
         "https://www.orbitdiscovery.com/events"
       ],
-      "lastChecked": "2026-06-08T07:41:44.261Z"
+      "lastChecked": "2026-06-23T07:03:00.953Z"
     },
     {
       "name": "Orca Computing",
@@ -810,7 +824,7 @@
       "officialNewsPages": [
         "https://orcacomputing.com/category/news"
       ],
-      "lastChecked": "2026-06-08T07:41:46.699Z"
+      "lastChecked": "2026-06-23T07:03:04.402Z"
     },
     {
       "name": "ORFonyx",
@@ -824,7 +838,7 @@
       "xTwitter": "https://x.com/OrfonyxBio",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:48.723Z"
+      "lastChecked": "2026-06-23T07:03:07.373Z"
     },
     {
       "name": "Osler Diagnostics",
@@ -838,7 +852,7 @@
       "xTwitter": "https://x.com/OslerDx",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:41:50.164Z"
+      "lastChecked": "2026-06-23T07:03:08.423Z"
     },
     {
       "name": "Oxford Endovascular",
@@ -855,7 +869,7 @@
         "https://oxfordendovascular.com/news-events",
         "https://oxfordendovascular.com/category/news"
       ],
-      "lastChecked": "2026-06-08T07:41:51.396Z"
+      "lastChecked": "2026-06-23T07:03:09.619Z"
     },
     {
       "name": "Oxford Flow",
@@ -876,7 +890,7 @@
         "http://oxford-flow.com/insights/downloads",
         "http://oxford-flow.com/insights/videos"
       ],
-      "lastChecked": "2026-06-08T07:41:54.690Z"
+      "lastChecked": "2026-06-23T07:03:12.554Z"
     },
     {
       "name": "Oxford Ionics",
@@ -890,7 +904,7 @@
       "xTwitter": "https://x.com/oxfordionics",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:18.882Z"
+      "lastChecked": "2026-06-23T07:03:36.874Z"
     },
     {
       "name": "Oxford Nanoimaging",
@@ -911,7 +925,7 @@
         "https://oni.bio/news",
         "https://oni.bio/events"
       ],
-      "lastChecked": "2026-06-08T07:42:23.579Z"
+      "lastChecked": "2026-06-23T07:03:38.527Z"
     },
     {
       "name": "Oxford Quantum Circuits",
@@ -928,7 +942,7 @@
         "https://oqc.tech/company/resources",
         "https://oqc.tech/company/newsroom"
       ],
-      "lastChecked": "2026-06-08T07:42:27.027Z"
+      "lastChecked": "2026-06-23T07:03:42.974Z"
     },
     {
       "name": "Oxford Semantic Technologies",
@@ -950,7 +964,7 @@
         "https://www.oxfordsemantic.tech/blog/oxford-semantic-technologies-and-ortecha-partner-to-accelerate-enterprise-ai-and-data-transformation",
         "https://www.oxfordsemantic.tech/blog/what-is-knowledge-based-ai-what-can-owl-ontological-reasoning-do-how-can-datalog-reason-with-filters-aggregates-negations-and-binds"
       ],
-      "lastChecked": "2026-06-08T07:42:28.652Z"
+      "lastChecked": "2026-06-23T07:03:44.810Z"
     },
     {
       "name": "PepGen",
@@ -964,7 +978,7 @@
       "xTwitter": "https://x.com/PepGenTx",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:32.325Z"
+      "lastChecked": "2026-06-23T07:03:50.862Z"
     },
     {
       "name": "Perspectum",
@@ -982,7 +996,7 @@
         "https://perspectum.com/news-events",
         "https://perspectum.com/news"
       ],
-      "lastChecked": "2026-06-08T07:42:34.938Z"
+      "lastChecked": "2026-06-23T07:03:54.242Z"
     },
     {
       "name": "PQShield",
@@ -1003,7 +1017,7 @@
         "https://pqshield.com/events/we-are-exhibiting-dbts-showcase-london-tech-week-9-10-june-2026",
         "https://pqshield.com/events/cityforum-cyber-security-summit-15-july-2026"
       ],
-      "lastChecked": "2026-06-08T07:42:36.792Z"
+      "lastChecked": "2026-06-23T07:03:56.669Z"
     },
     {
       "name": "Prolific",
@@ -1021,7 +1035,7 @@
         "https://www.prolific.com/resources/how-columbia-university-researchers-are-redefining-environmental-decision-making-with-prolific",
         "https://www.prolific.com/resources/how-the-collective-intelligence-project-is-democratizing-ai-development-with-global-human-perspectives"
       ],
-      "lastChecked": "2026-06-08T07:42:39.038Z"
+      "lastChecked": "2026-06-23T07:04:04.394Z"
     },
     {
       "name": "Quantum Motion",
@@ -1035,7 +1049,7 @@
       "xTwitter": "https://x.com/quantum_motion",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:40.659Z"
+      "lastChecked": "2026-06-23T07:04:06.760Z"
     },
     {
       "name": "Refeyn",
@@ -1053,7 +1067,7 @@
         "https://refeyn.com/events-calendar",
         "https://refeyn.com/resources/mass-photometry-handbook"
       ],
-      "lastChecked": "2026-06-08T07:42:41.783Z"
+      "lastChecked": "2026-06-23T07:04:07.967Z"
     },
     {
       "name": "Salience Labs",
@@ -1069,7 +1083,7 @@
       "officialNewsPages": [
         "https://www.saliencelabs.ai/news-resources"
       ],
-      "lastChecked": "2026-06-08T07:42:44.995Z"
+      "lastChecked": "2026-06-23T07:04:15.327Z"
     },
     {
       "name": "Scenic Biotech",
@@ -1083,7 +1097,7 @@
       "xTwitter": "https://x.com/BiotechScenic",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:46.499Z"
+      "lastChecked": "2026-06-23T07:04:17.577Z"
     },
     {
       "name": "Scripta",
@@ -1101,7 +1115,7 @@
         "https://www.scriptatherapeutics.com/news/multi-factorial-diseases-require-a-multi-target-lever",
         "https://www.scriptatherapeutics.com/news/scripta-featured-in-drug-target-review"
       ],
-      "lastChecked": "2026-06-08T07:42:47.887Z"
+      "lastChecked": "2026-06-23T07:04:19.193Z"
     },
     {
       "name": "Seloxium",
@@ -1117,7 +1131,7 @@
       "officialNewsPages": [
         "https://www.seloxium.com/news"
       ],
-      "lastChecked": "2026-06-08T07:42:49.500Z"
+      "lastChecked": "2026-06-23T07:04:22.478Z"
     },
     {
       "name": "Sitryx",
@@ -1131,7 +1145,7 @@
       "xTwitter": "https://x.com/Sitryx_info",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:52.156Z"
+      "lastChecked": "2026-06-23T07:04:25.689Z"
     },
     {
       "name": "Snowfox Discovery",
@@ -1145,7 +1159,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:53.715Z"
+      "lastChecked": "2026-06-23T07:04:26.733Z"
     },
     {
       "name": "SpyBiotech",
@@ -1162,7 +1176,7 @@
         "https://spybiotech.com/news",
         "https://spybiotech.com/publications"
       ],
-      "lastChecked": "2026-06-08T07:42:54.795Z"
+      "lastChecked": "2026-06-23T07:04:28.311Z"
     },
     {
       "name": "Stateful Robotics",
@@ -1176,7 +1190,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:57.101Z"
+      "lastChecked": "2026-06-23T07:04:32.832Z"
     },
     {
       "name": "T-Cypher Bio",
@@ -1190,7 +1204,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:42:58.613Z"
+      "lastChecked": "2026-06-23T07:04:34.454Z"
     },
     {
       "name": "Thelior Bio",
@@ -1204,7 +1218,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:43:00.046Z"
+      "lastChecked": "2026-06-23T07:04:35.961Z"
     },
     {
       "name": "Theolytics",
@@ -1218,7 +1232,7 @@
       "xTwitter": "https://x.com/theolytics",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:43:01.089Z"
+      "lastChecked": "2026-06-23T07:04:36.986Z"
     },
     {
       "name": "Ultromics",
@@ -1232,7 +1246,7 @@
       "xTwitter": "https://x.com/ultromics",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:43:02.487Z"
+      "lastChecked": "2026-06-23T07:04:38.621Z"
     },
     {
       "name": "Vivid Dx",
@@ -1246,7 +1260,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:43:03.840Z"
+      "lastChecked": "2026-06-23T07:04:39.972Z"
     },
     {
       "name": "Wild Bioscience",
@@ -1260,7 +1274,7 @@
       "xTwitter": "",
       "otherSocial": [],
       "officialNewsPages": [],
-      "lastChecked": "2026-06-08T07:43:04.837Z"
+      "lastChecked": "2026-06-23T07:04:41.046Z"
     },
     {
       "name": "YASA",
@@ -1278,7 +1292,7 @@
         "https://yasa.com/press",
         "https://yasa.com/news"
       ],
-      "lastChecked": "2026-06-08T07:43:06.669Z"
+      "lastChecked": "2026-06-23T07:04:42.434Z"
     }
   ]
 }

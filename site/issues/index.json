@@ -1,6 +1,13 @@
 {
   "issues": [
     {
+      "slug": "2026-06-23",
+      "date": "2026-06-23",
+      "title": "Issue 005: Clinical Enrollment, Quantum Deployment, Critical Minerals - 23 June 2026",
+      "summary": "Run date: 23 June 2026. Coverage window: 16 to 22 June 2026. This issue refreshed the live Oxford Science Enterprises portfolio source map, ran the automated weekly and LinkedIn discovery helpers for the full seven-day window, and manually checked candidate items against primary company, regulatory, government, specialist-media, publication and public social sources. OSE portfolio pages were used only for roster and official-link maintenance, not as evidence for company news.",
+      "status": "published"
+    },
+    {
       "slug": "2026-06-16",
       "date": "2026-06-16",
       "title": "Issue 004: Cardiovascular Validation, Nature Platform Expansion - 16 June 2026",

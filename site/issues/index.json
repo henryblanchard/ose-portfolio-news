@@ -1,6 +1,13 @@
 {
   "issues": [
     {
+      "slug": "2026-06-30",
+      "date": "2026-06-30",
+      "title": "Issue 006: Automated Microscopy, Critical-Metals Grants, Housing Retrofit - 30 June 2026",
+      "summary": "Run date: 30 June 2026. Coverage window: 23 to 30 June 2026. This issue refreshed the live Oxford Science Enterprises portfolio source map, ran the automated weekly and LinkedIn discovery helpers for the full seven-day window, and manually checked candidate items against primary company, public code, specialist-media, award, customer and public social sources. OSE portfolio pages were used only for roster and official-link maintenance, not as evidence for portfolio-company news.",
+      "status": "published"
+    },
+    {
       "slug": "2026-06-23",
       "date": "2026-06-23",
       "title": "Issue 005: Clinical Enrollment, Quantum Deployment, Critical Minerals - 23 June 2026",

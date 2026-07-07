@@ -1,6 +1,13 @@
 {
   "issues": [
     {
+      "slug": "2026-07-07",
+      "date": "2026-07-07",
+      "title": "Issue 007: Battery Materials, Construction Scanning, Quantum Access - 7 July 2026",
+      "summary": "Run date: 7 July 2026. Coverage window: 30 June to 7 July 2026. This issue refreshed the live Oxford Science Enterprises portfolio source map, ran the automated weekly and LinkedIn discovery helpers for the full seven-day window, and manually checked candidate items against primary company, publication, public social, award-programme and reputable third-party sources. OSE portfolio pages were used only for roster and official-link maintenance, not as evidence for portfolio-company news.",
+      "status": "published"
+    },
+    {
       "slug": "2026-06-30",
       "date": "2026-06-30",
       "title": "Issue 006: Automated Microscopy, Critical-Metals Grants, Housing Retrofit - 30 June 2026",
